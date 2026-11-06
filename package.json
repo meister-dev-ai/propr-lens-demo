@@ -1,0 +1,13 @@
+{
+  "name": "propr-lens-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "test": "node test/durations.test.mjs"
+  }
+}
